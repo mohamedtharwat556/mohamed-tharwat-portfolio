@@ -16,14 +16,6 @@ export const Experience = () => {
     },
     {
       id: 2,
-      role: 'مطور Full Stack حر',
-      company: 'عمل حر',
-      period: '2022 — الآن',
-      description: 'تصميم وتطوير تطبيقات ويب مخصصة لعملاء مختلفين، إدارة دورة حياة التطوير الكاملة من جمع المتطلبات إلى النشر.',
-      technologies: ['React.js', 'Node.js', 'MongoDB', 'Express'],
-    },
-    {
-      id: 3,
       role: 'مصمم جرافيك حر',
       company: 'عمل حر',
       period: '2020 — الآن',
@@ -31,20 +23,12 @@ export const Experience = () => {
       technologies: ['Photoshop', 'Illustrator', 'Figma', 'After Effects'],
     },
     {
-      id: 4,
-      role: 'شهادة MongoDB Developer',
+      id: 3,
+      role: 'مدخل بيانات',
       company: 'وزارة الاتصالات',
       period: 'يوليو 2025 — أكتوبر 2025',
-      description: 'شهادة مهنية في تطوير قواعد بيانات MongoDB، إتمام التدريب المعتمد من وزارة الاتصالات.',
-      technologies: ['MongoDB', 'NoSQL', 'Database Design'],
-    },
-    {
-      id: 5,
-      role: 'أخصائي دعم تكنولوجيا المعلومات',
-      company: 'منظمات مختلفة',
-      period: '2019 — 2020',
-      description: 'تقديم الدعم التقني، إدارة تثبيتات الأجهزة والبرمجيات، واستكشاف مشاكل الشبكات لضمان العمليات التجارية السلسة.',
-      technologies: ['Windows Server', 'الشبكات', 'استكشاف أخطاء الأجهزة'],
+      description: 'إدخال ومعالجة البيانات بدقة، إدارة الملفات الإلكترونية، والتأكد من جودة البيانات.',
+      technologies: ['Excel', 'Data Entry', 'Microsoft Office'],
     }
   ] : [
     {
@@ -57,14 +41,6 @@ export const Experience = () => {
     },
     {
       id: 2,
-      role: 'Freelance Full Stack Developer',
-      company: 'Self-Employed',
-      period: '2022 — Present',
-      description: 'Designed and developed custom web applications for various clients, managing the full development lifecycle from requirements gathering to deployment.',
-      technologies: ['React.js', 'Node.js', 'MongoDB', 'Express'],
-    },
-    {
-      id: 3,
       role: 'Freelance Graphic Designer',
       company: 'Self-Employed',
       period: '2020 — Present',
@@ -72,20 +48,12 @@ export const Experience = () => {
       technologies: ['Photoshop', 'Illustrator', 'Figma', 'After Effects'],
     },
     {
-      id: 4,
-      role: 'MongoDB Developer Certification',
+      id: 3,
+      role: 'Data Entry',
       company: 'Ministry of Communications',
       period: 'July 2025 — October 2025',
-      description: 'Professional certification in MongoDB database development, completed accredited training from the Ministry of Communications.',
-      technologies: ['MongoDB', 'NoSQL', 'Database Design'],
-    },
-    {
-      id: 5,
-      role: 'IT Support Specialist',
-      company: 'Various Organizations',
-      period: '2019 — 2020',
-      description: 'Provided technical support, managed hardware and software installations, and troubleshot network issues to ensure smooth business operations.',
-      technologies: ['Windows Server', 'Networking', 'Hardware Troubleshooting'],
+      description: 'Accurate data entry and processing, managing electronic files, and ensuring data quality.',
+      technologies: ['Excel', 'Data Entry', 'Microsoft Office'],
     }
   ];
 
