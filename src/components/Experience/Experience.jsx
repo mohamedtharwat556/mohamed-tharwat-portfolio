@@ -25,7 +25,7 @@ export const Experience = () => {
     {
       id: 3,
       role: 'مدخل بيانات',
-      company: 'وزارة الاتصالات',
+      company: 'مهارات تبع وزارة الاتصالات المصرية',
       period: 'يوليو 2025 — أكتوبر 2025',
       description: 'إدخال ومعالجة البيانات بدقة، إدارة الملفات الإلكترونية، والتأكد من جودة البيانات.',
       technologies: ['Excel', 'Data Entry', 'Microsoft Office'],
@@ -50,7 +50,7 @@ export const Experience = () => {
     {
       id: 3,
       role: 'Data Entry',
-      company: 'Ministry of Communications',
+      company: 'Maharat - Ministry of Communications & Information Technology',
       period: 'July 2025 — October 2025',
       description: 'Accurate data entry and processing, managing electronic files, and ensuring data quality.',
       technologies: ['Excel', 'Data Entry', 'Microsoft Office'],
