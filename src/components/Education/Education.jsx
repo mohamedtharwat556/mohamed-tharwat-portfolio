@@ -20,19 +20,6 @@ export const Education = () => {
         'خبرة عملية في تطوير الويب وبنية تكنولوجيا المعلومات',
       ],
     },
-    {
-      id: 2,
-      degree: 'دبلوم — تكنولوجيا المعلومات',
-      tag: 'DEG_IT_2021',
-      institution: 'جامعة سيناء',
-      location: 'العريش، مصر',
-      period: 'يناير 2019 — فبراير 2021',
-      status: 'completed',
-      highlights: [
-        'أساسيات علوم الحاسوب ونظم المعلومات',
-        'إدارة قواعد البيانات وأساسيات الشبكات',
-      ],
-    },
   ] : [
     {
       id: 1,
@@ -46,19 +33,6 @@ export const Education = () => {
         'Core modules: Data Structures, Algorithms, Networks, Databases',
         'Software Engineering principles and system design',
         'Practical experience with web development and IT infrastructure',
-      ],
-    },
-    {
-      id: 2,
-      degree: 'Diploma — Information Technology',
-      tag: 'DEG_IT_2021',
-      institution: 'Sinai University',
-      location: 'Arish, Egypt',
-      period: 'Jan 2019 — Feb 2021',
-      status: 'completed',
-      highlights: [
-        'Foundations of computer science and information systems',
-        'Database management and networking fundamentals',
       ],
     },
   ];
