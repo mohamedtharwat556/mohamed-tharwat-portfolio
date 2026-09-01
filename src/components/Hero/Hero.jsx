@@ -104,7 +104,7 @@ export const Hero = () => {
               <div className="hero-card-contacts">
                 <a href="mailto:mhmdthrwt744@gmail.com" className="hero-contact-chip font-mono">{t('gmail')}</a>
                 <a href="https://linkedin.com/in/mmohamed-tharwat" target="_blank" rel="noopener noreferrer" className="hero-contact-chip font-mono">{t('linkedin')}</a>
-                <a href="https://github.com/Mohamedtharwat8" target="_blank" rel="noopener noreferrer" className="hero-contact-chip font-mono">{t('github')}</a>
+                <a href="https://github.com/mohamedtharwat556" target="_blank" rel="noopener noreferrer" className="hero-contact-chip font-mono">{t('github')}</a>
               </div>
             </div>
           </div>

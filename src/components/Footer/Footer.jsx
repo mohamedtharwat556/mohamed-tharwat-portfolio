@@ -14,7 +14,7 @@ export const Footer = () => {
         </div>
         <div className="footer-social">
            <a href="https://linkedin.com/in/mmohamed-tharwat" target="_blank" rel="noopener noreferrer" className="font-mono">LinkedIn</a>
-           <a href="https://github.com/Mohamedtharwat8" target="_blank" rel="noopener noreferrer" className="font-mono">GitHub</a>
+           <a href="https://github.com/mohamedtharwat556" target="_blank" rel="noopener noreferrer" className="font-mono">GitHub</a>
            <a href="https://www.behance.net/e862a80e" target="_blank" rel="noopener noreferrer" className="font-mono">Behance</a>
         </div>
         <div className="footer-copyright font-mono">
