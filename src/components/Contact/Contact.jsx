@@ -23,6 +23,7 @@ export const Contact = () => {
               <p className="contact-text">{t('contactText')}</p>
               <div className="contact-action">
                 <CustomButton href="https://wa.me/201013791517" variant="primary">{t('sayHello')}</CustomButton>
+                <CustomButton href="/mohamed-tharwat-cv.pdf" download variant="ghost">{t('downloadCV')}</CustomButton>
               </div>
               <div className="contact-details mt-4">
                  <p className="font-mono">{t('emailLabel')} mhmdthrwt744@gmail.com</p>

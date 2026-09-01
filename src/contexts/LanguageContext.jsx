@@ -73,6 +73,7 @@ const translations = {
     letsBuild: 'Let\'s build something together.',
     contactText: 'I\'m currently looking for full-time opportunities as a Full Stack Developer. If you think I\'d be a good fit for your team, let\'s talk.',
     sayHello: 'Say Hello',
+    downloadCV: 'Download CV',
     emailLabel: 'Email:',
     phoneLabel: 'Phone:',
     
@@ -177,6 +178,7 @@ const translations = {
     letsBuild: 'لنبنِ شيئاً معاً.',
     contactText: 'أبحث حالياً عن فرص عمل بدوام كامل كمطور Full Stack. إذا كنت تعتقد أنني مناسب لفريقك، لنتحدث.',
     sayHello: 'قل مرحباً',
+    downloadCV: 'تحميل السيرة الذاتية',
     emailLabel: 'البريد الإلكتروني:',
     phoneLabel: 'الهاتف:',
     
