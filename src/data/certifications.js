@@ -61,5 +61,14 @@ export const certificationsData = [
     code: 'CERT_007',
     category: 'Frontend',
     link: '#',
+  },
+  {
+    id: 8,
+    title: 'Adobe Photoshop',
+    issuer: 'Adobe',
+    date: '2025',
+    code: 'CERT_008',
+    category: 'Design',
+    link: '#',
   }
 ];
