@@ -43,5 +43,14 @@ export const certificationsData = [
     code: 'CERT_005',
     category: 'Design',
     link: '#',
+  },
+  {
+    id: 6,
+    title: 'Java Programming',
+    issuer: 'Maharat - Ministry of Communications & Information Technology',
+    date: '2025',
+    code: 'CERT_006',
+    category: 'Programming',
+    link: '#',
   }
 ];
