@@ -34,5 +34,14 @@ export const certificationsData = [
     code: 'CERT_004',
     category: 'Data Entry',
     link: '#',
+  },
+  {
+    id: 5,
+    title: 'UX/UI Design',
+    issuer: 'Maharat - Ministry of Communications & Information Technology',
+    date: '2025',
+    code: 'CERT_005',
+    category: 'Design',
+    link: '#',
   }
 ];
