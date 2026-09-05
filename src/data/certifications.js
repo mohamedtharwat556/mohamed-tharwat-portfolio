@@ -52,5 +52,14 @@ export const certificationsData = [
     code: 'CERT_006',
     category: 'Programming',
     link: '#',
+  },
+  {
+    id: 7,
+    title: 'HTML & CSS',
+    issuer: 'Maharat - Ministry of Communications & Information Technology',
+    date: '2025',
+    code: 'CERT_007',
+    category: 'Frontend',
+    link: '#',
   }
 ];
