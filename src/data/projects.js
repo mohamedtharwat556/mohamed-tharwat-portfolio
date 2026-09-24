@@ -64,7 +64,7 @@ export const projectsData = [
       { step: "03", name: "Learning Content", type: "Media Stream" },
       { step: "04", name: "Platform Interface", type: "Portal View" }
     ],
-    liveUrl: "https://online-lessons-flame.vercel.app/",
+    liveUrl: "https://nada-teacher-dashboard.vercel.app/",
     codeUrl: ""
   }
 ];
