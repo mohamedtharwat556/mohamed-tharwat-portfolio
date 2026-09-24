@@ -49,20 +49,23 @@ export const projectsData = [
     id: "proj-03",
     number: "03",
     title: "Online Lessons Platform",
-    technologies: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-    categories: ["All", "JavaScript"],
-    description: "Developed a responsive educational platform for online learning.",
+    technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JavaScript", "CSS"],
+    categories: ["All", "React", "JavaScript", "Full Stack"],
+    description: "Full-stack educational platform for student academic tracking and science learning management with real-time monitoring and detailed reporting.",
     functionality: [
-      "Responsive educational interface",
-      "Clean user-friendly portal design",
-      "Cross-device compatibility",
-      "Structured learning presentation"
+      "Student search and tracking system",
+      "Academic performance monitoring",
+      "Real-time detailed reports generation",
+      "Multi-grade level support (Primary to Secondary)",
+      "Teacher-student-parent communication",
+      "Data privacy and security",
+      "Progress tracking dashboard"
     ],
     architecture: [
-      { step: "01", name: "Student", type: "Learner" },
-      { step: "02", name: "Lessons", type: "Curriculum" },
-      { step: "03", name: "Learning Content", type: "Media Stream" },
-      { step: "04", name: "Platform Interface", type: "Portal View" }
+      { step: "01", name: "Student Database", type: "Data Store" },
+      { step: "02", name: "Search System", type: "API Layer" },
+      { step: "03", name: "Teacher Dashboard", type: "Management" },
+      { step: "04", name: "Parent Portal", type: "User Interface" }
     ],
     liveUrl: "https://nada-teacher-dashboard.vercel.app/",
     codeUrl: ""
