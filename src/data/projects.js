@@ -71,8 +71,8 @@ export const projectsData = [
     id: "proj-04",
     number: "04",
     title: "YAS Help Desk",
-    technologies: ["React.js", "JavaScript", "CSS", "HTML5"],
-    categories: ["All", "React", "JavaScript"],
+    technologies: ["React.js", "Node.js", "Supabase", "JavaScript", "CSS", "HTML5"],
+    categories: ["All", "React", "JavaScript", "Full Stack"],
     description: "Professional technical support and customer service platform for YAS company with comprehensive ticket management and real-time tracking.",
     functionality: [
       "Technical support request registration",
