@@ -66,6 +66,31 @@ export const projectsData = [
     ],
     liveUrl: "https://nada-teacher-dashboard.vercel.app/",
     codeUrl: ""
+  },
+  {
+    id: "proj-04",
+    number: "04",
+    title: "YAS Help Desk",
+    technologies: ["React.js", "JavaScript", "CSS", "HTML5"],
+    categories: ["All", "React", "JavaScript"],
+    description: "Professional technical support and customer service platform for YAS company with comprehensive ticket management and real-time tracking.",
+    functionality: [
+      "Technical support request registration",
+      "Real-time ticket tracking with unique IDs",
+      "24/7 service availability",
+      "Multi-device support tracking",
+      "WhatsApp integration for direct support",
+      "Comprehensive FAQ system",
+      "Automated status notifications"
+    ],
+    architecture: [
+      { step: "01", name: "User Request", type: "Client Input" },
+      { step: "02", name: "Ticket Generation", type: "Processing" },
+      { step: "03", name: "Support Team", type: "Management" },
+      { step: "04", name: "Resolution", type: "Output" }
+    ],
+    liveUrl: "https://yas-help-desk.vercel.app/",
+    codeUrl: ""
   }
 ];
 
