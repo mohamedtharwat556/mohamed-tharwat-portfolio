@@ -3,7 +3,7 @@ export const projectsData = [
     id: "proj-01",
     number: "01",
     title: "Laptop Service Management System",
-    technologies: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    technologies: ["React.js", "Node.js", "Express.js", "Supabase"],
     categories: ["All", "React", "Full Stack"],
     description: "Developed a full-stack web application for managing laptop maintenance requests and customer information.",
     functionality: [
@@ -16,7 +16,7 @@ export const projectsData = [
     architecture: [
       { step: "01", name: "Customer", type: "Client" },
       { step: "02", name: "Maintenance Request", type: "Payload" },
-      { step: "03", name: "Application", type: "API / Server" },
+      { step: "03", name: "Supabase Database", type: "Data Layer" },
       { step: "04", name: "Admin Dashboard", type: "Management" }
     ],
     liveUrl: "https://laptop-service-weld.vercel.app/",
@@ -26,7 +26,7 @@ export const projectsData = [
     id: "proj-02",
     number: "02",
     title: "YAS City Website",
-    technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JavaScript", "CSS"],
+    technologies: ["React.js", "Node.js", "Supabase", "Express.js", "JavaScript", "CSS"],
     categories: ["All", "React", "JavaScript", "Full Stack"],
     description: "Full-stack corporate e-commerce platform for YAS - authorized Hikvision distributor with multi-language support, product catalog, and maintenance services.",
     functionality: [
@@ -41,7 +41,7 @@ export const projectsData = [
     ],
     architecture: [
       { step: "01", name: "User Interface", type: "Frontend" },
-      { step: "02", name: "Product Database", type: "Data Layer" },
+      { step: "02", name: "Product Database", type: "Supabase Store" },
       { step: "03", name: "API Services", type: "Backend" },
       { step: "04", name: "E-commerce Integration", type: "External" }
     ],
@@ -52,7 +52,7 @@ export const projectsData = [
     id: "proj-03",
     number: "03",
     title: "Online Lessons Platform",
-    technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JavaScript", "CSS"],
+    technologies: ["React.js", "Node.js", "Supabase", "Express.js", "JavaScript", "CSS"],
     categories: ["All", "React", "JavaScript", "Full Stack"],
     description: "Full-stack educational platform for student academic tracking and science learning management with real-time monitoring and detailed reporting.",
     functionality: [
@@ -65,7 +65,7 @@ export const projectsData = [
       "Progress tracking dashboard"
     ],
     architecture: [
-      { step: "01", name: "Student Database", type: "Data Store" },
+      { step: "01", name: "Student Database", type: "Supabase Store" },
       { step: "02", name: "Search System", type: "API Layer" },
       { step: "03", name: "Teacher Dashboard", type: "Management" },
       { step: "04", name: "Parent Portal", type: "User Interface" }
@@ -77,7 +77,7 @@ export const projectsData = [
     id: "proj-04",
     number: "04",
     title: "YAS Help Desk",
-    technologies: ["React.js", "Node.js", "Supabase", "JavaScript", "CSS", "HTML5"],
+    technologies: ["React.js", "Node.js", "Supabase", "Express.js", "JavaScript", "CSS", "HTML5"],
     categories: ["All", "React", "JavaScript", "Full Stack"],
     description: "Professional technical support and customer service platform for YAS company with comprehensive ticket management and real-time tracking.",
     functionality: [

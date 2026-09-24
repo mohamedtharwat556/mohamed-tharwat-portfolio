@@ -29,7 +29,7 @@ export const skillGroups = [
     icon: '◎',
     color: '#34d399',
     skills: [
-      { name: 'MongoDB', level: 80 },
+      { name: 'Supabase', level: 80 },
       { name: 'MySQL', level: 72 },
       { name: 'Data Modeling', level: 70 },
     ],

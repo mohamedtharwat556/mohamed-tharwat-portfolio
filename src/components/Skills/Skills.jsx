@@ -27,7 +27,7 @@ export const Skills = () => {
       skills: [
         { name: 'Node.js', level: 80 },
         { name: 'Express.js', level: 78 },
-        { name: 'MongoDB', level: 75 },
+        { name: 'Supabase', level: 75 },
         { name: 'REST APIs', level: 85 },
       ],
     },
@@ -64,7 +64,7 @@ export const Skills = () => {
       skills: [
         { name: 'Node.js', level: 80 },
         { name: 'Express.js', level: 78 },
-        { name: 'MongoDB', level: 75 },
+        { name: 'Supabase', level: 75 },
         { name: 'REST APIs', level: 85 },
       ],
     },

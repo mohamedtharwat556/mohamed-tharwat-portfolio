@@ -6,9 +6,9 @@ import { ArchitectureGraphic } from '../ui/ArchitectureGraphic';
 export const About = () => {
   const { t, language } = useLanguage();
   
-  const bioText1 = language === 'ar' 
-    ? 'أنا <strong>مطور Full Stack</strong> حاصل على بكالوريوس تكنولوجيا المعلومات من جامعة سيناء. خبرتي تمتد لبناء تطبيقات ويب كاملة — من واجهات React متجاوبة إلى خوادم Node.js قابلة للتوسع مع Express و MongoDB.'
-    : 'I am a <strong>Full Stack Developer</strong> with a Bachelor of Information Technology from Sinai University. My experience spans building complete web applications — from responsive React interfaces to scalable Node.js backends with Express and MongoDB.';
+  const bioText1 = language === 'ar'
+    ? 'أنا <strong>مطور Full Stack</strong> حاصل على بكالوريوس تكنولوجيا المعلومات من جامعة سيناء. خبرتي تمتد لبناء تطبيقات ويب كاملة — من واجهات React متجاوبة إلى خوادم Node.js قابلة للتوسع مع Express و Supabase.'
+    : 'I am a <strong>Full Stack Developer</strong> with a Bachelor of Information Technology from Sinai University. My experience spans building complete web applications — from responsive React interfaces to scalable Node.js backends with Express and Supabase.';
   
   const bioText2 = language === 'ar'
     ? 'إلى جانب البرمجة، لدي خبرة عملية في دعم تكنولوجيا المعلومات وإدارة البيانات والعمليات — مما يمنحني منظوراً نادراً يربط بين التنفيذ التقني والاحتياجات التشغيلية في العالم الحقيقي.'
