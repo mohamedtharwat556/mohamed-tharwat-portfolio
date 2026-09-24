@@ -42,7 +42,7 @@ export const projectsData = [
       { step: "04", name: "Sections", type: "Feature Blocks" },
       { step: "05", name: "Footer", type: "System Links" }
     ],
-    liveUrl: "",
+    liveUrl: "https://yas-portfolio-eta.vercel.app/",
     codeUrl: ""
   },
   {
