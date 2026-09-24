@@ -51,18 +51,19 @@ export const projectsData = [
   {
     id: "proj-03",
     number: "03",
-    title: "Online Lessons Platform",
+    title: "nada-teacher-dashboard",
     technologies: ["React.js", "Node.js", "Supabase", "Express.js", "JavaScript", "CSS"],
     categories: ["All", "React", "JavaScript", "Full Stack"],
-    description: "Full-stack educational platform for student academic tracking and science learning management with real-time monitoring and detailed reporting.",
+    description: "Full-stack educational tracking platform for a science teacher featuring student search system, grade level support, and parent communication tools with database management.",
     functionality: [
-      "Student search and tracking system",
-      "Academic performance monitoring",
-      "Real-time detailed reports generation",
+      "Student search by name and grade level",
       "Multi-grade level support (Primary to Secondary)",
-      "Teacher-student-parent communication",
-      "Data privacy and security",
-      "Progress tracking dashboard"
+      "Teacher profile and information display",
+      "WhatsApp integration for parent communication",
+      "Responsive educational design",
+      "Academic tracking information",
+      "Privacy-focused student data handling",
+      "Database management with Supabase"
     ],
     architecture: [
       { step: "01", name: "Student Database", type: "Supabase Store" },
