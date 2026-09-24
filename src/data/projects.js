@@ -26,21 +26,24 @@ export const projectsData = [
     id: "proj-02",
     number: "02",
     title: "YAS City Website",
-    technologies: ["React.js", "JavaScript", "CSS"],
-    categories: ["All", "React", "JavaScript"],
-    description: "Designed and developed a responsive corporate website with a modern user interface.",
+    technologies: ["React.js", "Node.js", "MongoDB", "Express.js", "JavaScript", "CSS"],
+    categories: ["All", "React", "JavaScript", "Full Stack"],
+    description: "Full-stack corporate e-commerce platform for YAS - authorized Hikvision distributor with multi-language support, product catalog, and maintenance services.",
     functionality: [
-      "Responsive layout engineering",
-      "Modern editorial user interface",
-      "Performance optimization",
-      "Cross-device & multi-resolution compatibility"
+      "Multi-language support (Arabic, English, German, Chinese)",
+      "Product catalog with detailed specifications",
+      "Department-based product categorization",
+      "Maintenance request system",
+      "E-commerce integration with external store",
+      "Responsive corporate design",
+      "Contact form and WhatsApp integration",
+      "FAQ system with comprehensive answers"
     ],
     architecture: [
-      { step: "01", name: "Header", type: "Nav Module" },
-      { step: "02", name: "Hero", type: "Primary Banner" },
-      { step: "03", name: "Content", type: "Core Grid" },
-      { step: "04", name: "Sections", type: "Feature Blocks" },
-      { step: "05", name: "Footer", type: "System Links" }
+      { step: "01", name: "User Interface", type: "Frontend" },
+      { step: "02", name: "Product Database", type: "Data Layer" },
+      { step: "03", name: "API Services", type: "Backend" },
+      { step: "04", name: "E-commerce Integration", type: "External" }
     ],
     liveUrl: "https://yas-portfolio-eta.vercel.app/",
     codeUrl: ""
